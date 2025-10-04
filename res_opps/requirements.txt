@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+PyMuPDF
+python-dotenv
+Pillow
+pandas
+frontend
+tools
