@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import io
 import base64
-import fitz  # PyMuPDF
+import fitz
 import google.generativeai as genai
 from dotenv import load_dotenv
 from typing import List, Dict, Optional
